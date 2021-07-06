@@ -2,11 +2,17 @@
 Visualization of sorting algorithms made in C++11 with SDL 1.2.14
 
 The showcased sorting algorithms in order:
+
 -Selection sort
+
 -Insertion sort
+
 -Quick sort
+
 -Shell sort
+
 -std::sort
+
 -std::stable_sort
 
 Once an algorithm finishes you can advance by pressing the left mouse button.
